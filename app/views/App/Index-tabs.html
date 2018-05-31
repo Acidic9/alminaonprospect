@@ -1,0 +1,33 @@
+{{set . "title" "Home"}}
+
+{{append . "moreStyles" "lib/tiny-slider.min.css"}}
+{{template "header.html" .}}
+
+<div class="image-slider-container">
+	<div class="image-slider-inner-container">
+		<div class="image-slider">
+			<div class="slider">
+				<img src="/public/img/slider/1.jpg" alt="">
+				<img src="/public/img/slider/2.jpg" alt="">
+			</div>
+		</div>
+	</div>
+</div>
+
+<section class="section">
+	<div class="container">
+		<div class="tabs is-boxed is-fullwidth">
+			<ul>
+				{{range $i, $category := .menu.Category}}
+					<li{{if eq $i 0}} class="is-active"{{end}}><a>{{$category.Name}}</a></li>
+				{{end}}
+			</ul>
+		</div>
+
+
+	</div>
+</section>
+
+{{append . "moreScripts" "lib/tiny-slider.min.js"}}
+{{append . "moreScripts" "index.js"}}
+{{template "footer.html" .}}

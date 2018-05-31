@@ -1,0 +1,519 @@
+{
+	"Category": [
+		{
+			"name": "Mezza Menu (Ent)",
+			"items": [
+				{
+					"name": "Trio Of Dips",
+					"description": "Baba ghanoosh, Hummus and paprika & capsicum served with hot oven pita",
+					"price": 9.9
+				},
+				{
+					"name": "Kibbeh",
+					"description": "Crushed wheat and lean beef/lamb filled with onion and pine nuts croquette",
+					"price": 9.9
+				},
+				{
+					"name": "Samousa",
+					"description": "pocket filled with beef mince, parsley, spring onion, turmeric.",
+					"price": 8.9
+				},
+				{
+					"name": "Vegetable Kibbeh",
+					"description": "Crushed wheat and pumpkin filled with chickpeas, eggplant and pomegranate",
+					"price": 9.9
+				},
+				{
+					"name": "Rice Kibbeh",
+					"description": "Rice and lean beef/lamb filled with onion and croquette",
+					"price": 9.9
+				},
+				{
+					"name": "Potato Kibbeh",
+					"description": "Potato crust lean beef/lamb filled with onion and croquette",
+					"price": 9.9
+				},
+				{
+					"name": "Falafel",
+					"description": "3 falafel served with tahini pickled turnip and lebanese gherkins",
+					"price": 9.9
+				},
+				{
+					"name": "Lebanese Sauages",
+					"description": "6 Lebanese sausages served with lemon, hummus and hot oven pita",
+					"price": 9.9
+				}
+			]
+		},
+		{
+			"name": "Zoccacia",
+			"items": [
+				{
+					"name": "Falafel",
+					"description": "Freashly cooked falafel served with spanish onion, sliced tomato, iceberg lettuce, tabouli, hummus and tahini",
+					"price": 8.9
+				},
+				{
+					"name": "Sumac Chicken",
+					"description": "Breast chicken marinated in sumac, parsley and oregano served with roast capsicum, sliced tomato, mezzanine  lettuce, cucumber with a dijon ranch dressing",
+					"price": 9.9
+				},
+				{
+					"name": "Salami",
+					"description": "Beef salami, sliced tomato, mozzarella cheese, kalamata olives, greek yogurt and mazzanine lettuce",
+					"price": 8.9
+				},
+				{
+					"name": "Vego",
+					"description": "Roasted capsicum, kalamata olive, baby spinach, sliced tomatoes and greek yogurt",
+					"price": 8.9
+				}
+			]
+		},
+		{
+			"name": "Manaeesh",
+			"items": [
+				{
+					"name": "Zaatar",
+					"description": "Lebanese style herb bread with middle eastern herb mix consisting of 12 spices including toasted sesame seeds, sumac, oregano, thyme and coriander.",
+					"price": 2.9
+				},
+				{
+					"name": "Lahme Bi Ajeen",
+					"description": "Trukish style pizza madwe of 3 types of tomato, capsicum, onion and lean mince",
+					"price": 4.9
+				},
+				{
+					"name": "Jibun",
+					"description": "A combination of cyprian haloumi, danish fetta, mozzarella and nigella seed rolled into a pocket",
+					"price": 5.9
+				},
+				{
+					"name": "Spinach And Cheese",
+					"description": "Baby spinach with a combination of cyprian haloumi, danish fetta, mozzarella, nigella seed and sumac roolled into a pocket",
+					"price": 6.5
+				},
+				{
+					"name": "Sujek Manaeesh",
+					"description": "Paprika based trukish sausage (Hot) with mozzarella, kalamata olives, roast capsicum and sliced tomato",
+					"price": 7.5
+				},
+				{
+					"name": "Zaatar and Cheese",
+					"description": "Flat Manasseh with our jibun mixture mixed with zaatar",
+					"price": 5.9
+				}
+			]
+		},
+		{
+			"name": "Wraps",
+			"items": [
+				{
+					"name": "Falafel",
+					"description": "Freashly cooked falafel served with spanish onion, sliced tomato, iceberg lettuce, tabouli, hummus and tahini",
+					"price": 8.9
+				},
+				{
+					"name": "Traditional Falafel",
+					"description": "Freashly cooked falafel served wioth spianish onion, sliced tomato, pickled turnip, gerkins, tabouli, hummus and tahini",
+					"price": 9.9
+				},
+				{
+					"name": "Chicken",
+					"description": "Breast chicken marinated in sumac, parsley and oregano served with onion, sliced tomato, iceberg lettuce, roast capsicum with a dijon ranch dressing",
+					"price": 9.9
+				},
+				{
+					"name": "Tandoori Chicken",
+					"description": "Breast chicken marinated in tandoori, served with onion, sliced tomato, mezzanine lettuce, cucumber and home made tandoori dressing",
+					"price": 9.9
+				},
+				{
+					"name": "Lamb",
+					"description": "Lamb pieces served with spancish onion, sliced tomato,iceberg lettuce, tabouli, hummus and tahini",
+					"price": 9.9
+				},
+				{
+					"name": "Lebanese Sausage",
+					"description": "Hot labanese sausages served with spanish onion, slice tomato, pickled turnip, gerkins, tabouli and hummus",
+					"price": 10.9
+				},
+				{
+					"name": "A.B. Wrap",
+					"description": "lamb pieces served with spanish onion, sliced tomato, iceberg lettuice, chips. mozzarella, tomato sauce and dijon ranch dressing",
+					"price": 10.9
+				}
+			]
+		},
+		{
+			"name": "Pizza",
+			"items": [
+				{
+					"name": "Margarita",
+					"description": "Tomato sauce, cheese, sliced tomato oregano and fresh basil",
+					"price": 8.9
+				},
+				{
+					"name": "Vegetarian",
+					"description": "Tomato sauce, cheese, mushroom, roast capsicum, onion kalamata olives, oregano and basil",
+					"price": 9.9
+				},
+				{
+					"name": "BBQ Chicken",
+					"description": "Tomato sauce, cheese, breast chicken, mushroom, onion and bbq sauce",
+					"price": 10.9
+				},
+				{
+					"name": "Calabrese",
+					"description": "Tomato sauce,. cheese, salami, sliced tomato, olive and freash basil",
+					"price": 10.9
+				},
+				{
+					"name": "Napolitana",
+					"description": "Tomato sauce, cheese, anchovies, kalamata olive and fresh basil",
+					"price": 9.9
+				},
+				{
+					"name": "Tripoli",
+					"description": "Tomato sauce, cheese, mushroom, roast capsicum, olive & chorizo",
+					"price": 10.9
+				},
+				{
+					"name": "Phoenician",
+					"description": "Tomato sauce, cheese, lamb pieces, Spanish onion, sliced tomato and roast capsicum and fetta cheese",
+					"price": 11.9
+				},
+				{
+					"name": "Chicken Hawaiian",
+					"description": "Tomato sauce, cheese, breast chicken and pineapple",
+					"price": 10.9
+				},
+				{
+					"name": "Tandoori Chicken",
+					"description": "Tomato sauce, cheese , tandoori chicken, Spanish onion, sliced tomatoes roast capsicum and fresh cucumber",
+					"price": 11.9
+				}
+			]
+		},
+		{
+			"name": "Sides",
+			"items": [
+				{
+					"name": "Chips",
+					"description": "",
+					"price": 3.5
+				},
+				{
+					"name": "Wedges",
+					"description": "Served with sweet chilli and sour cream",
+					"price": 5.9
+				},
+				{
+					"name": "Nuggests",
+					"description": "3 Chicken nuggets with chips",
+					"price": 5.9
+				},
+				{
+					"name": "Garden Salad (Ent)",
+					"description": "Mezzanine lettuce, tomato, spanish onion, cucmber dressed with balsamic vinaigrette",
+					"price": 5.9
+				}
+			]
+		},
+		{
+			"name": "Salads",
+			"items": [
+				{
+					"name": "Falafel",
+					"description": "Freshly cooked falafel on a bed of mezzanine salad with cucumber, spanish onion, tomato, roasted capsicum, drizzled with olive oil & hummus",
+					"price": 10.9
+				},
+				{
+					"name": "Pear Salad",
+					"description": "Rocket, slices of pear, drizzled with homemade lemon vinaigrette garnished with shaved parmesan",
+					"price": 11.9
+				},
+				{
+					"name": "Chicken Salad",
+					"description": "Breast chicken strips on a bed of mezzanine salad with cucumber, spanish onion, tomato roasted capsicum, drizzled with homemade dijon dressing and balsamic vinaigrette",
+					"price": 12.9
+				},
+				{
+					"name": "Green Salad",
+					"description": "Cos lettuce, baby spinach, green capsicum, cucumber, drizzled with homemade lemon vinaigrette and basil",
+					"price": 11.9
+				},
+				{
+					"name": "Ceaser Salad",
+					"description": "Cos Lettuce, croutons, poached egg, bastirma ( Cured beef) gamished with shaved parmesan drizzled with as homemade caesar dressing ( Anchovies Optional )",
+					"price": 13.9
+				},
+				{
+					"name": "AL Mina Salad",
+					"description": "Breast chicken strips on a bed of mezzanine salad with cucumber, spanish onion tomatoes, roasted capsicum, avocado, danish fetta drizzled with homemade pomegranate dressing",
+					"price": 14.9
+				}
+			]
+		},
+		{
+			"name": "Traditional Desserts",
+			"items": [
+				{
+					"name": "Knefeh (The King Breakfast)",
+					"description": "Semoline baced labanese dessert filled with clotted cream (ashtah) served hot with a rose infused sugar syrup garnished with pistachio and flower blossom leaves",
+					"price": 7
+				},
+				{
+					"name": "Mafrookeh (served hot)",
+					"description": "Semolina based knefeh pastry toasted and catramelised infused with flower blossom water.  Topped with fresh with clotted cream (ashtah) garnished with hot roasted nuts, pistachio and flower blossom leaves",
+					"price": 7
+				},
+				{
+					"name": "Halewet El Jibun",
+					"description": "Sweet cheese melted with fine semolina milk and rose water. Broken into thin pieces and topped with  fresh with clotted cream (ashtah) garnished with hot roasted nuts, pistachio and flower blossom leaves",
+					"price": 7
+				},
+				{
+					"name": "Znoud El Sett (Lady's wrist)",
+					"description": "Filo pasrry filled like a spring roll filled with fresh with clotted cream (ashtah) fried in a vegetanle ghee and dipped in a rose infused syrup garnished pistachlo and flower blossom leaves.",
+					"price": 2.5
+				}
+			]
+		},
+		{
+			"name": "Desserts",
+			"items": [
+				{
+					"name": "Banofee Waffle",
+					"description": "Fresh banana and house made caramel sauce and warm belgian chocolate with vanilla cream and vanilla bean ice cream",
+					"price": 12
+				},
+				{
+					"name": "Strawberries & Cream Waffle",
+					"description": "Fresh strawberries with warm belgian chocolate with vanilla cream and vanilla bean ice cream",
+					"price": 13
+				},
+				{
+					"name": "Plain Waffle",
+					"description": "Served with vanilla cream or ice cream with your choice of warm Belgian chocolate, caramel, house made not- ella or real maple syrup",
+					"price": 10
+				},
+				{
+					"name": "Cookies & Cream Waffle",
+					"description": "crushed oreos and warm belgian chocolate with vanilla cream and vanilla bean ice",
+					"price": 12
+				},
+				{
+					"name": "Tiramisu Cup",
+					"description": "Italian dessert made of lady's fingers dipped in coffee, layered with a whipped coffee infused cheese cream",
+					"price": 4.4
+				},
+				{
+					"name": "Pofita Cup",
+					"description": "pofita rolls filled with cream garnished with roast almond topped with soft chocolate ganache",
+					"price": 4.4
+				},
+				{
+					"name": "Oreo Mouse Cup",
+					"description": "Soft chocolate mouse with crushed oreos topped with soft chocolate ganache",
+					"price": 4.4
+				}
+			]
+		},
+		{
+			"name": "Specialty",
+			"items": [
+				{
+					"name": "Iced coffee",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Iced Chocolate",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Iced Mocha",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Coffee Frappe",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Mocha Frappe",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Caramel Frappe",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Choc Hazel Frappe",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Chocolate Milkshake",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Strawberry Milkshake",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Vanilla Milkshake",
+					"description": "",
+					"price": 5.9
+				},
+				{
+					"name": "Banana Milkshake",
+					"description": "",
+					"price": 5.9
+				}
+			]
+		},
+		{
+			"name": "Tea's",
+			"items": [
+				{
+					"name": "Russian Caravan",
+					"description": "Blend of oolong keemun, and laspang souchong teas",
+					"price": 3
+				},
+				{
+					"name": "Granny's Garden",
+					"description": "Blend of apple, berries, strawberries and rhubard",
+					"price": 3
+				},
+				{
+					"name": "English Breakfast",
+					"description": "Black Tea Blend",
+					"price": 3
+				},
+				{
+					"name": "Pepper Mint",
+					"description": "Herbal Tea",
+					"price": 3
+				},
+				{
+					"name": "Camomile",
+					"description": "An infusion of dried flowers of sweet camomile",
+					"price": 3
+				},
+				{
+					"name": "Sencha",
+					"description": "Japanese green tea",
+					"price": 3.9
+				}
+			]
+		},
+		{
+			"name": "Coffee",
+			"items": [
+				{
+					"name": "Latte",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Cappuccino",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Flat White",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Mocha",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Chai Latte",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Dirty Chai latte",
+					"description": "",
+					"price": 3.8
+				},
+				{
+					"name": "Short Black",
+					"description": "",
+					"price": 2.5
+				},
+				{
+					"name": "Long Black",
+					"description": "",
+					"price": 3
+				},
+				{
+					"name": "Turkish Coffee",
+					"description": "",
+					"price": 2.5
+				}
+			]
+		},
+		{
+			"name": "Cold Drinks",
+			"items": [
+				{
+					"name": "Sahara Ayran",
+					"description": "",
+					"price": 3.9
+				},
+				{
+					"name": "Barbican (Malt Drink)",
+					"description": "",
+					"price": 3.9
+				},
+				{
+					"name": "Fruto",
+					"description": "",
+					"price": 3.9
+				},
+				{
+					"name": "Zam Zam Water",
+					"description": "",
+					"price": 3.9
+				},
+				{
+					"name": "Uludag Gazoz",
+					"description": "",
+					"price": 2.9
+				},
+				{
+					"name": "Uludag Mineral  water",
+					"description": "",
+					"price": 2.9
+				},
+				{
+					"name": "San Pellegrino",
+					"description": "",
+					"price": 2.9
+				},
+				{
+					"name": "Schweppes",
+					"description": "",
+					"price": 3.9
+				},
+				{
+					"name": "Cool Ridge Water",
+					"description": "",
+					"price": 2.9
+				}
+			]
+		}
+	]
+}
